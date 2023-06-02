@@ -201,3 +201,18 @@ body {
   width: 20px;
   height: 20px;
 }
+
+@media screen and (max-width: 900px) {
+  .gameBox {
+    height: 360px;
+    width: 360px;
+  }
+  .check {
+    width: 110px;
+    height: 110px;
+  }
+  #setting {
+    height: 50px;
+    width: 360px;
+  }
+}
